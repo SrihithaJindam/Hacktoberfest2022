@@ -1,3 +1,4 @@
+#finding greatest number
 def greatest_number():
     a=list(map(int,input("Input the 5 numbers with spaces - ").split(' ')))
     if len(a)==5:
